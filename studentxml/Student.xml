@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students> 
+  <student sid="1001"> 
+    <name>yu</name>  
+    <age>18</age>  
+    <address> 
+      <old>ankang</old>  
+      <new>xian</new> 
+    </address> 
+  </student>  
+  <student sid="1002"> 
+    <name>li</name>  
+    <age>20</age>  
+    <address> 
+      <old>beijing</old>  
+      <new>shanghai</new> 
+    </address> 
+  </student>  
+  <student sid="1003"> 
+    <name>5</name>  
+    <age>5</age>  
+    <address> 
+      <old>5</old>  
+      <new>5</new> 
+    </address> 
+  </student> 
+</students>
